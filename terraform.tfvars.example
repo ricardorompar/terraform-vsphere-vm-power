@@ -1,0 +1,3 @@
+vm = "vm-1234"
+session_token = "111111222222333333344444444555"
+VSPHERE_SERVER = "vcenter.example.com"
